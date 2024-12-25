@@ -1,0 +1,6 @@
+resnet18:
+78.37  
+
+resnet_contrast
+
+resnet_contrast_clip

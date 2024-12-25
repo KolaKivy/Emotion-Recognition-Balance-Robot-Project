@@ -1,0 +1,17 @@
+.\output\serial.o: User\Serial.c
+.\output\serial.o: User\Serial.h
+.\output\serial.o: .\CMSIS\stm32f10x.h
+.\output\serial.o: .\CMSIS\core_cm3.h
+.\output\serial.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\serial.o: .\CMSIS\system_stm32f10x.h
+.\output\serial.o: .\User\stm32f10x_conf.h
+.\output\serial.o: .\FWlib\inc\stm32f10x_dma.h
+.\output\serial.o: .\CMSIS\stm32f10x.h
+.\output\serial.o: .\FWlib\inc\stm32f10x_gpio.h
+.\output\serial.o: .\FWlib\inc\stm32f10x_i2c.h
+.\output\serial.o: .\FWlib\inc\stm32f10x_rcc.h
+.\output\serial.o: .\FWlib\inc\stm32f10x_tim.h
+.\output\serial.o: .\FWlib\inc\stm32f10x_usart.h
+.\output\serial.o: .\FWlib\inc\misc.h
+.\output\serial.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\output\serial.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
